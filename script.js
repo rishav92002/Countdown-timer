@@ -29,7 +29,7 @@ function countdown(){
    
     // const rseconds= seconds-(mins*60);
 
-    console.log(`${days}   ${hrs}  ${mins} ${secs}`);
+    // console.log(`${days}   ${hrs}  ${mins} ${secs}`);
 }
 
 function formatTime(time){
